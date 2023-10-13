@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjaydevcraft
-- 👀 I’m interested in webd evelopper and other technologies
+- 👀 I’m interested in web developper and other technologies
 - 🌱 I’m currently learning full stack dev
 
 
